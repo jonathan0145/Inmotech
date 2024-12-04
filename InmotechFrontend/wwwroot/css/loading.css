@@ -1,4 +1,32 @@
-﻿.progress-bar-container {
+﻿body {
+    width: 1500px;
+    height: 729px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    background-image: url(../multimedia/imagenes/loading-fondo.webp);
+    background-repeat: no-repeat;
+    background-size: 730px;
+    background-position:right;
+}
+
+#opacidad {
+    width:1519px;
+    height:729.600px;
+    background-color: rgba(50, 0, 50, 0.5);
+    margin:0px;
+}
+
+img{
+    width: 788px;
+    height: 729.600px;
+}
+
+.progress-bar-container {
     width: 200px;
     height: 20px;
     background-color: #eee;
