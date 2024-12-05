@@ -1,8 +1,44 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\banner.css",
+      "PackagePath": "staticwebassets\\css\\banner.css"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\comocomprar.css",
+      "PackagePath": "staticwebassets\\css\\comocomprar.css"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
+      "PackagePath": "staticwebassets\\css\\loading.css"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
+      "PackagePath": "staticwebassets\\javascript\\loading.js"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\loading-fondo.webp",
+      "PackagePath": "staticwebassets\\multimedia\\imagenes\\loading-fondo.webp"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\logo_1090x1080.png",
+      "PackagePath": "staticwebassets\\multimedia\\imagenes\\logo_1090x1080.png"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
+      "PackagePath": "staticwebassets\\paginas\\loading.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.InmotechFrontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

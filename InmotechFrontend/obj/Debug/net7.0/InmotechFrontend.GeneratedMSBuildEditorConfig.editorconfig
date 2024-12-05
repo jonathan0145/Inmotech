@@ -28,8 +28,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jonat/OneDrive/Desktop/INMOTECH/InmotechFrontend/Pages/Banner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive/Desktop/INMOTECH/InmotechFrontend/Pages/Centro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VudHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive/Desktop/INMOTECH/InmotechFrontend/Pages/ComoComprar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tb0NvbXByYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jonat/OneDrive/Desktop/INMOTECH/InmotechFrontend/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive/Desktop/INMOTECH/InmotechFrontend/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jonat/OneDrive/Desktop/INMOTECH/InmotechFrontend/_Imports.razor]

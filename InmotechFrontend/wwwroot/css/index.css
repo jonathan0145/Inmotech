@@ -1,0 +1,562 @@
+﻿/* Estilos generales */
+body {
+    width: 100%;
+    height: 2500px;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+    #resolvemos ul::-webkit-scrollbar,
+    .tarjetas_testimonios::-webkit-scrollbar,
+    #inmotech p::-webkit-scrollbar,
+    body::-webkit-scrollbar,
+    .tarjetas_testimonios .card .back p::-webkit-scrollbar {
+        width: 20px; /* Ancho de la barra de scroll */
+    }
+
+    /* Estilo de la pista de scroll */
+    #resolvemos ul::-webkit-scrollbar-track,
+    .tarjetas_testimonios::-webkit-scrollbar-track,
+    #inmotech p::-webkit-scrollbar-track,
+    body::-webkit-scrollbar-track,
+    .tarjetas_testimonios .card .back p::-webkit-scrollbar-track {
+        background: rgb(145, 139, 243); /* Color de fondo de la pista */
+    }
+
+    #resolvemos ul::-webkit-scrollbar-thumb,
+    .tarjetas_testimonios::-webkit-scrollbar-thumb,
+    #inmotech p::-webkit-scrollbar-thumb,
+    body::-webkit-scrollbar-thumb,
+    .tarjetas_testimonios .card .back p::-webkit-scrollbar-thumb {
+        background: rgb(49, 46, 104); /* Color del pulgar */
+        border-radius: 100px; /* Bordes redondeados */
+        border: 2px solid rgb(49, 46, 104); /* Bordes alrededor del pulgar */
+    }
+        /* Estilo del pulgar cuando se hace hover */
+        #resolvemos ul::-webkit-scrollbar-thumb:hover,
+        .tarjetas_testimonios::-webkit-scrollbar-thumb:hover,
+        #inmotech p::-webkit-scrollbar-thumb:hover,
+        body::-webkit-scrollbar-thumb:hover,
+        .tarjetas_testimonios .card .back p::-webkit-scrollbar-thumb:hover {
+            background: rgb(22, 21, 46); /* Color del pulgar al pasar el mouse */
+        }
+
+header {
+    width: 100%;
+    height: 950px;
+    margin: 0px;
+    padding: 0;
+    background-color: red;
+}
+/* --------------------------------------------------------------------------------------------------------------------------------------------- */
+/* banner-container */
+/* .banner-container{
+    position: relative;
+    width: 100%;
+    height: 950px;
+    overflow: hidden;
+    background-color: #fff;
+} */
+
+/* Estilo de las imagenes dentro del banner */
+a .banner-image {
+    width: 100%;
+    height: 950px;
+    object-fit: cover;
+    display: none;
+    position: absolute;
+}
+
+.banner-image {
+    width: 100%;
+    height: 950px;
+    object-fit: cover;
+    display: none;
+    position: absolute;
+}
+
+    .banner-image.active {
+        display: block;
+    }
+
+/* Estilo de los botones */
+.banner-buttons {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.banner-button {
+    background-color: rgba(12, 8, 55, 0.799);
+    color: white;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+    .banner-button.active {
+        background-color: rgb(145, 139, 243);
+        color: rgba(12, 8, 55, 0.7);
+    }
+
+#contenedor-logo {
+    width: 240px;
+    position: absolute;
+    left: 20px;
+    top: 480px;
+    border: 1px solid transparent;
+}
+
+/*Logo*/
+#logo {
+    width: 100%;
+    box-shadow: 0px 0px 10px 5px rgb(145, 139, 243);
+    border-radius: 10%;
+}
+/*titulo*/
+header h1 {
+    width: 240px;
+    height: 50px;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: clamp(24px,40.32px);
+    margin: 30px 100PX 0 0;
+    text-shadow: 2px 2px 5px rgb(145, 139, 243);
+    background-color: rgba(82, 69, 217, 0.7);
+    text-align: center;
+    border-radius: 20px;
+}
+/*queries*/
+@media(max-width: 1140px) {
+    #contenedor-logo {
+        width: 168.750px;
+        left: 40%;
+        bottom: 250px;
+    }
+}
+
+@media(min-height: 700px) {
+    .banner-image {
+        height: 850px;
+    }
+
+    #logo {
+        bottom: 150px;
+        left: 15px;
+    }
+
+    header h1 {
+        bottom: 100px;
+        left: 15px;
+    }
+}
+
+@media(max-width: 500px) {
+    #contenedor-logo {
+        left: 33.5%;
+    }
+}
+
+/* secciones de inicio */
+.secciones {
+    width: 100%;
+    height: 800px;
+    margin: 0;
+    background-color: black;
+    border-bottom: 1px solid white;
+    display: block;
+}
+
+#navegacion {
+    height: 95px;
+}
+/* menu */
+nav {
+    width: 100%;
+    height: 95px;
+    background-color: rgb(64, 64, 145, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 1.5vw;
+}
+
+ul {
+    width: 100%;
+    margin-top: 30px;
+}
+
+    ul li {
+        display: inline-block;
+        padding: 0 3%;
+    }
+
+a {
+    text-decoration: none;
+    text-shadow: 2px 2px 5px rgb(145, 139, 243);
+    color: black;
+}
+
+    a:hover {
+        color: white;
+        text-shadow: 2px 2px 5px black;
+    }
+
+#inmuebles {
+    margin-top: 375px;
+    color: white;
+    padding-top: 100px;
+    position: relative;
+    bottom: 375px;
+}
+
+#contenedor_imagenes {
+    width: 90%;
+    height: 700px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(64, 64, 145, 0.9);
+    position: relative;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.arriba {
+    flex: 1 1 49.8%;
+    height: 50%;
+    background-color: rgb(64, 64, 145, 0.9);
+    border: 1px solid white;
+}
+
+#arriba1 {
+    border-radius: 20px 0px 0px 0px;
+    background-image: url(../multimedia/imagenes/imagenb1.webp);
+    background-attachment: fixed;
+    background-size: 50% 100%;
+}
+
+#arriba2 {
+    border-radius: 0px 20px 0px 0px;
+    background-image: url(../multimedia/imagenes/imagen3.webp);
+    background-attachment: fixed;
+    background-size: 50% 100%;
+}
+
+#abajo {
+    flex: 1 1 100%;
+    height: 50%;
+    background-color: rgb(64, 64, 145, 0.9);
+    border-radius: 0px 0px 20px 20px;
+    border: 1px solid white;
+    background-image: url(../multimedia/imagenes/imagenb2.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#as div {
+    width: 100%;
+    height: 100%;
+    transition: background-color 0.5s ease; /* Transición suave de 1 segundo */
+}
+
+#as #caja1 {
+    border-radius: 20px 0px 0px 0px;
+}
+
+#as #caja2 {
+    border-radius: 0px 20px 0px 0px;
+}
+
+#as #caja3 {
+    border-radius: 0px 0px 20px 20px;
+}
+
+#as div:hover {
+    background-color: rgba(64, 64, 145, 0.8);
+}
+
+#as #caja1:hover {
+    border-radius: 20px 0px 0px 0px;
+}
+
+#as #caja2:hover {
+    border-radius: 0px 20px 0px 0px;
+}
+
+#as #caja3:hover {
+    border-radius: 0px 0px 20px 20px;
+}
+
+#as h1 {
+    width: 100%;
+    height: 60px;
+    background-color: rgba(64, 64, 145, 0.9);
+    margin: 0px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#arriba1 #as h1 {
+    border-radius: 20px 0px 0px 0px;
+}
+
+#arriba2 #as h1 {
+    border-radius: 0px 20px 0px 0px;
+}
+/* Media query para pantallas más pequeñas */
+@media (max-width: 1123px) {
+    #contenedor_imagenes {
+        flex-direction: wrap; /* Alinea los elementos verticalmente en pantallas pequeñas */
+        height: auto; /* Permite que el contenedor crezca con el contenido */
+    }
+
+    .arriba {
+        flex: 1 1 25%; /* Cada div ocupa el 50% del ancho en pantallas pequeñas */
+        height: 360px; /* Permite que la altura se ajuste automáticamente */
+    }
+
+    #abajo {
+        flex: 1 1 100%; /* Ocupa toda la fila en la parte inferior */
+        height: 360px; /* Permite que la altura se ajuste automáticamente */
+    }
+}
+/* seccion inmotech */
+#inmotech {
+    color: white;
+    background-color: rgba(64, 64, 145, 0.9);
+    position: relative;
+    bottom: 408px;
+}
+
+    #inmotech h2 {
+        font-weight: bold;
+        font-family: "Platypi", serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    #inmotech img {
+        width: 45%;
+        height: 640px;
+        position: relative;
+        left: 20px;
+    }
+
+    #inmotech p {
+        width: 45%;
+        height: 630px;
+        border: 1px solid white;
+        position: relative;
+        left: 50%;
+        bottom: 670px;
+        font-size: 27.81px;
+        padding: 5px;
+        overflow-y: scroll;
+        text-shadow: 1px 1px 1px black;
+    }
+/* testimonios */
+#testimonios {
+    border-color: black;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    bottom: 441px;
+}
+
+    #testimonios h2 {
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+        font-family: "Platypi", serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 40px;
+    }
+
+    #testimonios p {
+        text-align: center;
+        font-size: 25px;
+    }
+
+    #testimonios .tarjetas_testimonios {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        height: 650px;
+        margin: 0px;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        gap: 10px;
+    }
+
+.tarjetas_testimonios .card {
+    position: relative;
+    width: 350px;
+    height: 400px;
+    margin: 0px 20px;
+    flex-shrink: 0;
+}
+
+    .tarjetas_testimonios .card .face {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        backface-visibility: hidden;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: .5s;
+    }
+
+    .tarjetas_testimonios .card .front {
+        transform: perspective(600px) rotateY(0deg);
+        box-shadow: 0 5px 10px #000;
+    }
+
+        .tarjetas_testimonios .card .front img {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .tarjetas_testimonios .card .front h3 {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 45px;
+            color: white;
+            background: rgba(0, 0, 0, .4);
+            text-align: center;
+        }
+
+    .tarjetas_testimonios .card .back {
+        transform: perspective(600px) rotateY(180deg);
+        background: rgb(3, 35, 54);
+        padding: 15px;
+        color: #f3f3f3;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        text-align: center;
+        box-shadow: 0 5px 10px #000;
+    }
+
+        .tarjetas_testimonios .card .back h3 {
+            font-size: 30px;
+            margin-top: 20px;
+            letter-spacing: 2px;
+        }
+
+        .tarjetas_testimonios .card .back p {
+            letter-spacing: 1px;
+            overflow-y: scroll;
+        }
+
+    .tarjetas_testimonios .card:hover .front {
+        transform: perspective(600px) rotateY(180deg);
+    }
+
+    .tarjetas_testimonios .card:hover .back {
+        transform: perspective(600px) rotateY(360deg);
+    }
+/* resolvemos */
+#resolvemos {
+    background-color: rgba(64, 64, 145, 0.9);
+    color: white;
+    position: relative;
+    bottom: 475px;
+}
+
+    #resolvemos h2 {
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+        font-family: "Platypi", serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 40px;
+    }
+
+    #resolvemos ul {
+        display: flex;
+        width: 100%;
+        height: 710px;
+        flex-direction: column;
+        padding: 0px;
+        overflow-y: scroll;
+    }
+
+        #resolvemos ul li {
+            height: 80px;
+            border-top: 1px solid white;
+            padding: 0px;
+            display: flex;
+        }
+
+            #resolvemos ul li a {
+                font-size: 40px;
+                padding: 10px;
+                flex: 1;
+                text-align: center;
+            }
+/* footer */
+footer {
+    width: 100%;
+    height: 150px;
+    background-image: url(../multimedia/imagenes/fondo_login.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 475px;
+}
+
+    footer #oscu {
+        width: 100%;
+        height: 150px;
+        background-color: rgba(247, 243, 243, 0.8);
+    }
+
+    footer ul {
+        width: 95%;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        margin: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+        footer ul .b {
+            border-right: 1px solid black;
+        }
+
+    footer p {
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 20px;
+        text-align: center;
+    }

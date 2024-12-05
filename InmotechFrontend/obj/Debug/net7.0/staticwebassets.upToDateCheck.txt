@@ -1,1 +1,10 @@
+wwwroot\css\banner.css
+wwwroot\css\comocomprar.css
+wwwroot\css\index.css
+wwwroot\css\loading.css
+wwwroot\css\login.css
 wwwroot\css\site.css
+wwwroot\javascript\loading.js
+wwwroot\multimedia\imagenes\loading-fondo.webp
+wwwroot\multimedia\imagenes\logo_1090x1080.png
+wwwroot\paginas\loading.html

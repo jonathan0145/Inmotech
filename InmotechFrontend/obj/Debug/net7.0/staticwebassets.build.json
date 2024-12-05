@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RemnQEXWWeVMa5iIuGgMxFZDZFj80EymCc/zBF8p5vE=",
+  "Hash": "TFMKdvpsdJ9WIGCOKPl4t3lMd2caBzbpWuQ4HD5S1Ks=",
   "Source": "InmotechFrontend",
   "BasePath": "_content/InmotechFrontend",
   "Mode": "Default",
@@ -16,6 +16,111 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\banner.css",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "css/banner#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9y601fw1q5",
+      "Integrity": "z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\banner.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\comocomprar.css",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "css/comocomprar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3y9uxwck8d",
+      "Integrity": "2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\comocomprar.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\index.css",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lupluujlqw",
+      "Integrity": "HfzC9ARmSKI/GSiiOKVYj82+jYUxfLYwF4TcBfCn/EU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "css/loading#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uzcslamzbh",
+      "Integrity": "yu1FPKUGclI6MQyVm2rjOCh6I366xsAPkNn6aUZPDI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\loading.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6hv1kp8h8c",
+      "Integrity": "mq3+kfIPYw4UN1mifE0IZLUbQe56nIMBrqLdZCfszXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
     {
       "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\site.css",
       "SourceId": "InmotechFrontend",
@@ -36,9 +141,503 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "javascript/loading#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0biu1vd4au",
+      "Integrity": "1PqHcCMfepS9GX3Yo+MUjVQfMiYBCY4o1dBrUB4vtCo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javascript\\loading.js"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\loading-fondo.webp",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "multimedia/imagenes/loading-fondo#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hreuvn93ov",
+      "Integrity": "PTF7mJeX2B4FcfrrPo92kSLIomelUWnXeqR6piQAWNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\multimedia\\imagenes\\loading-fondo.webp"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\logo_1090x1080.png",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "multimedia/imagenes/logo_1090x1080#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1eyvfq683",
+      "Integrity": "mLazzhOvh85Ztwxr+/KlKb4g+iVrGObvbUhMDCMsF7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\multimedia\\imagenes\\logo_1090x1080.png"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
+      "SourceId": "InmotechFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\",
+      "BasePath": "_content/InmotechFrontend",
+      "RelativePath": "paginas/loading#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d086cgiqb9",
+      "Integrity": "8yV9ImxRVLqG1gzusBKTyESn7LoBY7pS6k7d1uf1sLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\paginas\\loading.html"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/banner.9y601fw1q5.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\banner.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:23:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9y601fw1q5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/banner.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64="
+        }
+      ]
+    },
+    {
+      "Route": "css/banner.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\banner.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:23:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64="
+        }
+      ]
+    },
+    {
+      "Route": "css/comocomprar.3y9uxwck8d.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\comocomprar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:29:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3y9uxwck8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/comocomprar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE="
+        }
+      ]
+    },
+    {
+      "Route": "css/comocomprar.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\comocomprar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:29:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HfzC9ARmSKI/GSiiOKVYj82+jYUxfLYwF4TcBfCn/EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:44:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfzC9ARmSKI/GSiiOKVYj82+jYUxfLYwF4TcBfCn/EU="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.lupluujlqw.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13089"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HfzC9ARmSKI/GSiiOKVYj82+jYUxfLYwF4TcBfCn/EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:44:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lupluujlqw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HfzC9ARmSKI/GSiiOKVYj82+jYUxfLYwF4TcBfCn/EU="
+        }
+      ]
+    },
+    {
+      "Route": "css/loading.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yu1FPKUGclI6MQyVm2rjOCh6I366xsAPkNn6aUZPDI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:57:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yu1FPKUGclI6MQyVm2rjOCh6I366xsAPkNn6aUZPDI0="
+        }
+      ]
+    },
+    {
+      "Route": "css/loading.uzcslamzbh.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yu1FPKUGclI6MQyVm2rjOCh6I366xsAPkNn6aUZPDI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:57:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uzcslamzbh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/loading.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yu1FPKUGclI6MQyVm2rjOCh6I366xsAPkNn6aUZPDI0="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.6hv1kp8h8c.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mq3+kfIPYw4UN1mifE0IZLUbQe56nIMBrqLdZCfszXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hv1kp8h8c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mq3+kfIPYw4UN1mifE0IZLUbQe56nIMBrqLdZCfszXo="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mq3+kfIPYw4UN1mifE0IZLUbQe56nIMBrqLdZCfszXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mq3+kfIPYw4UN1mifE0IZLUbQe56nIMBrqLdZCfszXo="
+        }
+      ]
+    },
     {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\site.css",
@@ -118,6 +717,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-muHNs+UpmeTZcwN07iYcrIx/mdSUs+HobwC4umHZMyI="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/loading.0biu1vd4au.js",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1PqHcCMfepS9GX3Yo+MUjVQfMiYBCY4o1dBrUB4vtCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 22:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0biu1vd4au"
+        },
+        {
+          "Name": "label",
+          "Value": "javascript/loading.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1PqHcCMfepS9GX3Yo+MUjVQfMiYBCY4o1dBrUB4vtCo="
+        }
+      ]
+    },
+    {
+      "Route": "javascript/loading.js",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1PqHcCMfepS9GX3Yo+MUjVQfMiYBCY4o1dBrUB4vtCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 22:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1PqHcCMfepS9GX3Yo+MUjVQfMiYBCY4o1dBrUB4vtCo="
+        }
+      ]
+    },
+    {
+      "Route": "multimedia/imagenes/loading-fondo.hreuvn93ov.webp",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\loading-fondo.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PTF7mJeX2B4FcfrrPo92kSLIomelUWnXeqR6piQAWNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 15:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hreuvn93ov"
+        },
+        {
+          "Name": "label",
+          "Value": "multimedia/imagenes/loading-fondo.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PTF7mJeX2B4FcfrrPo92kSLIomelUWnXeqR6piQAWNA="
+        }
+      ]
+    },
+    {
+      "Route": "multimedia/imagenes/loading-fondo.webp",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\loading-fondo.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PTF7mJeX2B4FcfrrPo92kSLIomelUWnXeqR6piQAWNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 15:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PTF7mJeX2B4FcfrrPo92kSLIomelUWnXeqR6piQAWNA="
+        }
+      ]
+    },
+    {
+      "Route": "multimedia/imagenes/logo_1090x1080.k1eyvfq683.png",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\logo_1090x1080.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "481874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLazzhOvh85Ztwxr+/KlKb4g+iVrGObvbUhMDCMsF7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 15:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1eyvfq683"
+        },
+        {
+          "Name": "label",
+          "Value": "multimedia/imagenes/logo_1090x1080.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLazzhOvh85Ztwxr+/KlKb4g+iVrGObvbUhMDCMsF7M="
+        }
+      ]
+    },
+    {
+      "Route": "multimedia/imagenes/logo_1090x1080.png",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\multimedia\\imagenes\\logo_1090x1080.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "481874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mLazzhOvh85Ztwxr+/KlKb4g+iVrGObvbUhMDCMsF7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Aug 2024 15:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mLazzhOvh85Ztwxr+/KlKb4g+iVrGObvbUhMDCMsF7M="
+        }
+      ]
+    },
+    {
+      "Route": "paginas/loading.d086cgiqb9.html",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yV9ImxRVLqG1gzusBKTyESn7LoBY7pS6k7d1uf1sLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 22:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d086cgiqb9"
+        },
+        {
+          "Name": "label",
+          "Value": "paginas/loading.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yV9ImxRVLqG1gzusBKTyESn7LoBY7pS6k7d1uf1sLA="
+        }
+      ]
+    },
+    {
+      "Route": "paginas/loading.html",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yV9ImxRVLqG1gzusBKTyESn7LoBY7pS6k7d1uf1sLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 22:20:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yV9ImxRVLqG1gzusBKTyESn7LoBY7pS6k7d1uf1sLA="
         }
       ]
     }
