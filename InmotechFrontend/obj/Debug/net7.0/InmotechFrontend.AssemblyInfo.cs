@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InmotechFrontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f850062906360dc1dc0de8dd076a2dbca8dd80b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0120e7d6b114d6fc0370e0a5388567ca37efd840")]
 [assembly: System.Reflection.AssemblyProductAttribute("InmotechFrontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InmotechFrontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

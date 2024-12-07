@@ -4,25 +4,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\banner.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9y601fw1q5"},{"Name":"integrity","Value":"sha256-z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64="},{"Name":"label","Value":"_content/InmotechFrontend/css/banner.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2199"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:23:27 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2199"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:54:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InmotechFrontend/css/banner.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\banner.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2199"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:23:27 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2199"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z19IHUKQUd3cJo3M8UNSkSUbM1QcNOD03jq4tvYOd64=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:54:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InmotechFrontend/css/comocomprar.3y9uxwck8d.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\comocomprar.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3y9uxwck8d"},{"Name":"integrity","Value":"sha256-2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE="},{"Name":"label","Value":"_content/InmotechFrontend/css/comocomprar.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1855"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:29:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1855"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:54:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InmotechFrontend/css/comocomprar.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\comocomprar.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1855"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:29:37 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1855"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222471veCpidFZ3mk6HwiWf1omWh3MkQ6jdsGB8GTxjCE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:54:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InmotechFrontend/css/index.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\index.css'))</AssetFile>
@@ -72,17 +72,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qvbxwdr9tu"},{"Name":"integrity","Value":"sha256-muHNs\u002BUpmeTZcwN07iYcrIx/mdSUs\u002BHobwC4umHZMyI="},{"Name":"label","Value":"_content/InmotechFrontend/css/site.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2264"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022muHNs\u002BUpmeTZcwN07iYcrIx/mdSUs\u002BHobwC4umHZMyI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 17:14:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InmotechFrontend/javascript/loading.0biu1vd4au.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\loading.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0biu1vd4au"},{"Name":"integrity","Value":"sha256-1PqHcCMfepS9GX3Yo\u002BMUjVQfMiYBCY4o1dBrUB4vtCo="},{"Name":"label","Value":"_content/InmotechFrontend/javascript/loading.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"303"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221PqHcCMfepS9GX3Yo\u002BMUjVQfMiYBCY4o1dBrUB4vtCo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 22:21:01 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InmotechFrontend/javascript/loading.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\loading.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1PqHcCMfepS9GX3Yo\u002BMUjVQfMiYBCY4o1dBrUB4vtCo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"303"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221PqHcCMfepS9GX3Yo\u002BMUjVQfMiYBCY4o1dBrUB4vtCo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 22:21:01 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KcnOzMdOHHcZtE8QsNkM8BGzcCeIXfLCyKUMM2zvzGs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"416"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KcnOzMdOHHcZtE8QsNkM8BGzcCeIXfLCyKUMM2zvzGs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Dec 2024 05:22:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InmotechFrontend/javascript/loading.ldgxokp2m8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\javascript\loading.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ldgxokp2m8"},{"Name":"integrity","Value":"sha256-KcnOzMdOHHcZtE8QsNkM8BGzcCeIXfLCyKUMM2zvzGs="},{"Name":"label","Value":"_content/InmotechFrontend/javascript/loading.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"416"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KcnOzMdOHHcZtE8QsNkM8BGzcCeIXfLCyKUMM2zvzGs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Dec 2024 05:22:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InmotechFrontend/multimedia/imagenes/loading-fondo.hreuvn93ov.webp">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\multimedia\imagenes\loading-fondo.webp'))</AssetFile>

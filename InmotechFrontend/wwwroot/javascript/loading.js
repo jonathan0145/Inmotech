@@ -9,5 +9,7 @@ function updateProgressBar() {
         clearInterval(interval);
     }
 }
-
+setTimeout(() => {
+    window.location.href = "/index";
+}, 3000); // Redirige a index.html después de 3 segundos
 const interval = setInterval(updateProgressBar, 500);

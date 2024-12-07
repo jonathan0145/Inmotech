@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\pages\\loading.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:pages\\loading.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\wwwroot\\css\\loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:wwwroot\\css\\loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\wwwroot\\javascript\\loading.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:wwwroot\\javascript\\loading.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\wwwroot\\paginas\\loading.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:wwwroot\\paginas\\loading.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +51,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loading.css",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\loading.css",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
+              "RelativeToolTip": "wwwroot\\css\\loading.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T05:23:15.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loading.razor",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Loading.razor",
+              "RelativeDocumentMoniker": "Pages\\Loading.razor",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Loading.razor",
+              "RelativeToolTip": "Pages\\Loading.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:49:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loading.js",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
+              "RelativeDocumentMoniker": "wwwroot\\javascript\\loading.js",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
+              "RelativeToolTip": "wwwroot\\javascript\\loading.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-06T04:41:28.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:37:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loading.html",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
+              "RelativeDocumentMoniker": "wwwroot\\paginas\\loading.html",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
+              "RelativeToolTip": "wwwroot\\paginas\\loading.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-06T04:36:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T04:31:57.313Z",
+              "EditorCaption": ""
             }
           ]
         }
