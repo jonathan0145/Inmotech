@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|c:\\users\\jonat\\onedrive\\desktop\\inmotech\\inmotechfrontend\\pages\\loading.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA7E9C72-9B11-4EB0-ABFE-78E25168B0E9}|InmotechFrontend.csproj|solutionrelative:pages\\loading.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-07T14:00:19.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "loading.css",
               "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\loading.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\loading.css",
@@ -62,25 +79,24 @@
               "RelativeToolTip": "wwwroot\\css\\loading.css",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-06T05:23:15.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T05:23:15.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Loading.razor",
               "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Loading.razor",
               "RelativeDocumentMoniker": "Pages\\Loading.razor",
               "ToolTip": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Loading.razor",
               "RelativeToolTip": "Pages\\Loading.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T04:49:03.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "loading.js",
               "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\javascript\\loading.js",
               "RelativeDocumentMoniker": "wwwroot\\javascript\\loading.js",
@@ -88,12 +104,11 @@
               "RelativeToolTip": "wwwroot\\javascript\\loading.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-06T04:41:28.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:41:28.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Pages\\Index.razor",
@@ -101,12 +116,11 @@
               "RelativeToolTip": "Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T04:37:14.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:37:14.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "loading.html",
               "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\paginas\\loading.html",
               "RelativeDocumentMoniker": "wwwroot\\paginas\\loading.html",
@@ -114,12 +128,11 @@
               "RelativeToolTip": "wwwroot\\paginas\\loading.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-06T04:36:54.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:36:54.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "login.css",
               "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\Desktop\\INMOTECH\\InmotechFrontend\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
@@ -127,8 +140,7 @@
               "RelativeToolTip": "wwwroot\\css\\login.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-06T04:31:57.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:31:57.313Z"
             }
           ]
         }
